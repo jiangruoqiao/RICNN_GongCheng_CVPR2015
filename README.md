@@ -4,7 +4,7 @@
 _python RICNN.py_
 
 And you must set the training dataset path and testing dataset path in RICNN.py at first. 
-## Note
+## Note:
 In here, I set the tensor of input is (224,224,1), so you must reset the model if you want to use color image dataset.
 
 And H5 is used as dataset reading type, its type is (numbers,224,224,channels)
