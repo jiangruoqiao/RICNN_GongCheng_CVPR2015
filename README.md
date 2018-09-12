@@ -15,4 +15,4 @@ We use rotation-mnist-12k dataset to feed for testing accuracy of RICNN, and the
 Name of dataset:rot-mnist-12K
 So you should transform the image size in dataset before the run the network.
 
-##This network work on Python 2.7 and Tensorflow 1.6.0
+## This network work on Python 2.7 and Tensorflow 1.6.0
