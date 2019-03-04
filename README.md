@@ -1,5 +1,5 @@
 # RICNN_RepeatGongCheng-sPaper
- This project which contain CNNs of paper is from "Learning Rotation-Invariant Convolutional Neural Networks for Object Detection in VHR Optical Remote Sensing Images", it is peoposed in CVPR 2015, The RICNN extract and learn the rotation-invariant feature.
+ This project which contain CNNs of paper is from "Learning Rotation-Invariant Convolutional Neural Networks for Object Detection in VHR Optical Remote Sensing Images", it is peoposed in CVPR 2016, The RICNN extract and learn the rotation-invariant feature.
 ## Usage:
 _python RICNN.py_
 
