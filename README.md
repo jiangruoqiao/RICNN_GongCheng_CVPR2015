@@ -5,12 +5,12 @@ _python RICNN.py_
 
 And you must set the training dataset path and testing dataset path in RICNN.py at first. 
 ## Note:
-In here, I set the tensor of input is (224,224,1), so you must reset the model if you want to use color image dataset.
+In here, I set the tensor of input is (227,227,1), so you must reset the model if you want to use color image dataset.
 
-And H5 is used as dataset reading type, its type is (numbers,224,224,channels,number of rotated)
+And H5 is used as dataset reading type, its type is (numbers,227,227,channels,number of rotated)
 
 ## Accuracy of RICNN:
-We use rotation-mnist-12k dataset to feed for testing accuracy of RICNN, and the accuracy is 98.03%
+We use rotation-mnist-12k dataset to fed for testing accuracy of RICNN, and the accuracy is 98.03%
 
 Name of dataset:rot-mnist-12K
 So you should transform the image size in dataset before the run the network.
